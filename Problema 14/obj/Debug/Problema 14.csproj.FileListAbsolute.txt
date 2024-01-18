@@ -1,0 +1,7 @@
+C:\Proiecte\Laborator fp\Problema 14\bin\Debug\Problema 14.exe.config
+C:\Proiecte\Laborator fp\Problema 14\bin\Debug\Problema 14.exe
+C:\Proiecte\Laborator fp\Problema 14\bin\Debug\Problema 14.pdb
+C:\Proiecte\Laborator fp\Problema 14\obj\Debug\Problema 14.csproj.AssemblyReference.cache
+C:\Proiecte\Laborator fp\Problema 14\obj\Debug\Problema 14.csproj.CoreCompileInputs.cache
+C:\Proiecte\Laborator fp\Problema 14\obj\Debug\Problema 14.exe
+C:\Proiecte\Laborator fp\Problema 14\obj\Debug\Problema 14.pdb
