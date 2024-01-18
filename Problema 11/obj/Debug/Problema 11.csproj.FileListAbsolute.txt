@@ -1,0 +1,7 @@
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 2\Problema 11\bin\Debug\Problema 11.exe.config
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 2\Problema 11\bin\Debug\Problema 11.exe
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 2\Problema 11\bin\Debug\Problema 11.pdb
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 2\Problema 11\obj\Debug\Problema 11.csproj.AssemblyReference.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 2\Problema 11\obj\Debug\Problema 11.csproj.CoreCompileInputs.cache
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 2\Problema 11\obj\Debug\Problema 11.exe
+C:\Users\Ardeli Razvan Stefan\Desktop\Setul 2\Problema 11\obj\Debug\Problema 11.pdb
