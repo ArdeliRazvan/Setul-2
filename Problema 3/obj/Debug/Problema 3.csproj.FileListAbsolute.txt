@@ -1,0 +1,7 @@
+C:\Proiecte\Laborator fp\Problema 3\obj\Debug\Problema 3.csproj.AssemblyReference.cache
+C:\Proiecte\Laborator fp\Problema 3\obj\Debug\Problema 3.csproj.CoreCompileInputs.cache
+C:\Proiecte\Laborator fp\Problema 3\bin\Debug\Problema 3.exe.config
+C:\Proiecte\Laborator fp\Problema 3\bin\Debug\Problema 3.exe
+C:\Proiecte\Laborator fp\Problema 3\bin\Debug\Problema 3.pdb
+C:\Proiecte\Laborator fp\Problema 3\obj\Debug\Problema 3.exe
+C:\Proiecte\Laborator fp\Problema 3\obj\Debug\Problema 3.pdb
